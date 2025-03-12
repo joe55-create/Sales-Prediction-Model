@@ -1,0 +1,17 @@
+Date,Store,Product,Quantity Sold,Price per Unit,Total Sales,Region,Discount,Customer Type
+3/1/2025,Store 1,Product A,10,20,200,North,5%,Regular
+3/1/2025,Store 1,Product B,15,15,225,North,10%,Regular
+3/1/2025,Store 2,Product A,20,20,400,South,5%,New
+3/1/2025,Store 2,Product C,30,25,750,South,0%,New
+3/2/2025,Store 3,Product B,25,15,375,East,0%,Regular
+3/2/2025,Store 3,Product C,10,25,250,East,5%,Regular
+3/2/2025,Store 4,Product A,15,20,300,West,10%,New
+3/2/2025,Store 4,Product B,20,15,300,West,5%,Regular
+3/3/2025,Store 1,Product A,5,20,100,North,0%,Regular
+3/3/2025,Store 1,Product C,12,25,300,North,5%,Regular
+3/3/2025,Store 3,Product B,30,15,450,East,0%,New
+3/3/2025,Store 3,Product C,20,25,500,East,10%,Regular
+3/4/2025,Store 4,Product A,10,20,200,West,5%,New
+3/4/2025,Store 4,Product B,15,15,225,West,0%,Regular
+3/4/2025,Store 2,Product C,40,25,1000,South,10%,New
+3/4/2025,Store 2,Product A,25,20,500,South,5%,Regular
